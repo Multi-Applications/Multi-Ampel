@@ -1,0 +1,2 @@
+rootProject.name = "Multi Ampel"
+include ':app'

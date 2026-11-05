@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <color name="colorPrimary">#ffffff</color>
+  <color name="statusBarBackground">#000000</color>
+  <color name="titleTextColor">#1a100b</color>
+  <color name="colorAccent">#000000</color>
+  <color name="colorBackground">#ffffff</color>
+  <color name="drawerArrow">#1a100b</color>
+  <color name="sidebarForeground">#1a100b</color>
+  <color name="sidebarBackground">#ffffff</color>
+  <color name="sidebarSeparatorColor">#cccccc</color>
+  <color name="sidebarHighlight">#1a100b</color>
+  <color name="tabBarBackground">#ffffff</color>
+  <color name="tabBarTextColor">#949494</color>
+  <color name="tabBarIndicator">#1a100b</color>
+  <color name="swipe_nav_background">#ffffff</color>
+  <color name="swipe_nav_inactive">#666666</color>
+  <color name="swipe_nav_active">#000000</color>
+  <color name="pull_to_refresh_color">#1a100b</color>
+  <color name="splash_background">#000000</color>
+  <color name="progress_indicator">#808080</color>
+  <color name="systemNavBarBackground">#000000</color>
+
+  <color name="app_background">#000000</color>
+  <color name="light_housing_background">#0a0a0a</color>
+  <color name="light_housing_border">#1a1a1a</color>
+  <color name="light_red">#ff0000</color>
+  <color name="light_yellow">#ffcc00</color>
+  <color name="light_green">#00ff00</color>
+
+  <color name="sheet_background">#ffffff</color>
+  <color name="sheet_border">#e5e5ea</color>
+  <color name="sheet_handle">#d1d1d6</color>
+  <color name="sheet_title">#1c1c1e</color>
+  <color name="sheet_text">#636366</color>
+  <color name="sheet_value">#007aff</color>
+  <color name="sheet_scrim">#52000000</color>
+
+  <color name="slider_track">#e5e5ea</color>
+  <color name="slider_thumb">#1c1c1e</color>
+
+  <color name="material_primary">#0B57D0</color>
+  <color name="material_on_primary">#FFFFFF</color>
+  <color name="material_primary_container">#D3E3FD</color>
+  <color name="material_on_primary_container">#041E49</color>
+  <color name="material_secondary">#00639B</color>
+  <color name="material_on_secondary">#FFFFFF</color>
+  <color name="material_secondary_container">#C2E7FF</color>
+  <color name="material_on_secondary_container">#001D35</color>
+  <color name="material_tertiary">#00639B</color>
+  <color name="material_on_tertiary">#FFFFFF</color>
+  <color name="material_tertiary_container">#C2E7FF</color>
+  <color name="material_on_tertiary_container">#001D35</color>
+  <color name="material_outline">#747775</color>
+  <color name="material_outline_variant">#C4C7C5</color>
+  <color name="material_surface">#FFFFFF</color>
+  <color name="material_surface_container_lowest">#FFFFFF</color>
+  <color name="material_surface_container_low">#F8FAFD</color>
+  <color name="material_surface_container">#F0F4F9</color>
+  <color name="material_surface_container_high">#E9EEF6</color>
+  <color name="material_surface_container_highest">#E1E6EE</color>
+  <color name="material_on_surface">#1F1F1F</color>
+  <color name="material_on_surface_variant">#444746</color>
+
+
+  <color name="lock_icon">#ffffff</color>
+</resources>
